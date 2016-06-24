@@ -1,0 +1,78 @@
+body{
+    background-color:#f5f5f5;
+}
+.h1{
+    font-size: 4em;
+    
+}
+.center{
+    text-align: center;                
+    color: blue;
+    
+}
+
+.fli{
+    font-size: 2em;
+}
+code{
+    background-color:transparent;
+}
+.coding{
+    margin-top: 10px;
+    padding: 20px;
+    background-color:#eee;
+    border-radius: 10px;
+    font-size: 1.5em;
+}
+.blue{
+    color:blue;
+}
+  
+.bwhite{
+background-color: white;
+}
+p{
+    font-size:2em;
+}
+.griding
+{ 
+     
+    background-color:white;
+}
+.griding > div{
+    padding: 10px;
+    border: 1px solid;
+    text-align: center;
+}
+.border{
+border: 1px solid red;
+}
+.table{
+    background-color: white;
+}
+.table-striped > tbody > tr:nth-of-type(2n+1) {background-color: gray;
+}
+
+.dd >li{ display: block;
+
+float: left;
+width: 160px;
+
+margin-bottom: 40px;
+    
+    padding: 15px;
+
+}
+.dd>li:hover{background-color:black;color: white;}
+.glyphicon{
+font-size: 4em;
+}
+.glyphicon-class{
+    
+    font-size: 1.3em;
+}
+.dd > li > span.glyphicon{
+    display: block;
+float: none;
+    align-self: 
+}
